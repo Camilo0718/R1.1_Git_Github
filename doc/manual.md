@@ -1,3 +1,3 @@
-# Manual de la biblioteca
+## Reservas
 
-Aplicación para gestionar libros, usuarios y préstamos.
+Los usuarios pueden solicitar la reserva de libros no disponibles.
