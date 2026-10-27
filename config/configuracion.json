@@ -1,4 +1,5 @@
 {
-  "nombre": "R1.1_Git_Github",
-  "max_prestamos": 3
+  "nombre": "Biblioteca Universitaria",
+  "max_prestamos": 3,
+  "registro_usuarios": true
 }
